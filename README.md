@@ -1,4 +1,6 @@
-### Hi there 👋
+### Greetings traveler!🧙‍♂️👋
+
+Making stuff and such!
 
 <!--
 **Auo/Auo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
